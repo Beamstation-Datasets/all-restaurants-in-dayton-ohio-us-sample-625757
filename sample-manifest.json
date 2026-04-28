@@ -1,12 +1,12 @@
 {
-  "export_job_id": "07d86ccd-7675-49ab-bbfd-a6749d158a98",
+  "export_job_id": "f75cbd55-4b35-4da8-abb1-e2eb1c18acc2",
   "id_short": 625757,
-  "published_at": "2026-04-21T19:37:46Z",
+  "published_at": "2026-04-28T19:23:31Z",
   "repo_name": "all-restaurants-in-dayton-ohio-us-sample-625757",
   "sample_asset_name": "beamstation_625757_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/625757/beamstation_625757_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 37,
-  "sample_sha256": "937a7e8b29ab14ab912bc4fa45220a9fc74645388dc091363dbda390a3694049",
-  "sample_size_bytes": 139074,
-  "total_records": 371
+  "sample_records": 40,
+  "sample_sha256": "f2d970408f396b966c99b6056705bc47b872111232fac65b1eb6c36df6104574",
+  "sample_size_bytes": 141468,
+  "total_records": 406
 }
