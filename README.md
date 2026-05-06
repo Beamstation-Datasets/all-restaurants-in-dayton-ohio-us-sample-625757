@@ -1,6 +1,6 @@
 # All Restaurants in Dayton, Ohio, US
 
-> Free BeamStation sample export with 40 rows and masked direct-contact fields.
+> Free BeamStation sample export with 41 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `625757` |
 | Location | Dayton |
 | Category | Restaurants |
-| Full dataset size | 406 records |
-| Free sample size | 40 records (9.85%) |
-| Last export | 2026-04-28T14:33:13.867634+00:00 |
+| Full dataset size | 419 records |
+| Free sample size | 41 records (9.79%) |
+| Last export | 2026-05-06T05:10:15.649118+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-dayton-ohio-us-sample-625757/releases/download/sample-latest/beamstation_625757_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
